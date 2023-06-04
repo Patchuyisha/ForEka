@@ -1,0 +1,44 @@
+
+html {
+    overflow-y: scroll;
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body
+{
+background-image: url(home.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+}
+
+marquee{
+    border-radius: 90px;
+    background: rgb(242, 222, 252);
+    color: rgb(130, 5, 184);
+ font-size: 25px;
+ font-style: italic;
+}
+
+button.letter-btn
+{
+    background-color: rgb(205, 158, 238);
+    color: white;
+    height: 100%;
+    width: 20%;
+    padding: 10px 24px; 
+    cursor: pointer;
+    float: center;
+}
+
+button.Go-start-btn
+{
+    background-color: rgb(205, 158, 238);
+    color: white;
+    height: 95%;
+    width: 10%;
+    
+}

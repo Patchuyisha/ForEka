@@ -1,0 +1,27 @@
+body
+{
+background-image: url(bg-eka.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment:local;
+}
+
+img
+{
+    border: 10px solid rgb(144, 235, 236);
+    width: 45%;
+    height: 30%;
+}
+
+button.press-me-btn
+{
+    background-color: rgb(205, 158, 238);
+    color: white;
+    height: 95%;
+    width: 25%;
+    padding: 10px 24px; 
+    cursor: pointer;
+    float: center;
+}
+
+

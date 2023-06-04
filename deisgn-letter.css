@@ -1,0 +1,27 @@
+html {
+    overflow-y: scroll;
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body
+{
+background-image: url(letter.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+}
+
+button.go-back-btn
+{
+    background-color: rgb(205, 158, 238);
+    color: white;
+    height: 95%;
+    width: 25%;
+    padding: 10px 24px; 
+    cursor: pointer;
+    float: center;
+}
+  
